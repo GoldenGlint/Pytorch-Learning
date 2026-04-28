@@ -1,4 +1,6 @@
 .data/
-
+data/
+Pytorch-Learning/data/
+Pytorch-Learning/runs/
 TensorBoard-Support/data/
 TensorBoard-Support/runs/
